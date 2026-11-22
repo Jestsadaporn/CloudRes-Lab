@@ -1,0 +1,14 @@
+{
+  "name": "cloudres-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local demo application for the CloudRes infrastructure and resilience lab.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/server/index.js",
+    "test": "node --test"
+  }
+}

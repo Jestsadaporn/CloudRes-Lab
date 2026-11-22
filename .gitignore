@@ -1,0 +1,16 @@
+node_modules/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.azure/
+.aws/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+.DS_Store
